@@ -16,4 +16,4 @@ const Question1 = (x) => {
     }
 }
 
-Question1(15)
+Question1(30)
